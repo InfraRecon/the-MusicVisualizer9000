@@ -1,2 +1,30 @@
 # the-MusicVisualizer9000
-Its a Music Visualizer I made using P5.js, its not perfect at all just something for my degree that was fun.
+It's a Music Visualizer I made using P5.js, it's not perfect at all just something for my degree that was fun.
+
+A repository that contains the source code and Documentation for my 2nd Project for my BSc Computer Science Degree.
+
+This project development began in Early 2020 and ended in late 2020, This is "Childs Play".
+
+This project makes use of Elements casually seen in the Gaming Industry, Such as:
+
+    Graphics
+    Octaves
+    and Much more.
+
+Owners Terms: *This project can only be used for educational purposes. *No Commercial use or exchange for credits will be allowed by users who are not the content owner. *You are allowed to Edit or Modify your copy of this project but are not allowed to use it for anything outside of the domain of Education. *The assets used are not owned by the project holder, and nothing has been used for commercial instances, all rights owners to their own. *No improvements or Commits will be tolerated or processed for this repository besides from the owner.
+
+    By Downloading this repository you accept the licensing and owners' terms of use -
+
+Thank you for Downloading, and I hope this helps in some way or form.
+
+HOW DO I PLAY THE APP?
+
+    Download and install Brackets on a Compatible PC
+    Download & Unzip The Project from GitHub | All Files should be Exposed (You should see an index.html file in the folder)
+    Open Brackets
+    Drag the FOLDER onto the Brackets Sidebar (Where you see all of the default content when opening Brackets)
+    OR Use the file option to open the Folder
+    Click on the index File and then press the Lightning bolt on the right side of the Brackets Browser
+    *It might give you an option to preview, just say yes.
+    Then your default browser should open the game (Brackets is Compatible with any HTML 5 Browser but I recommend either Chrome or Firefox)
+    Have Fun!!
